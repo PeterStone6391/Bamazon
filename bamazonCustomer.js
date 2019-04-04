@@ -55,4 +55,5 @@ function checkStock() {
   // UPDATE <table name> SET <row name and new value> WHERE item_id=
   // update is used to change values of existing data/cell
   // need to change product items and quantities to new options from what Michael sent
+  // will go over this in next tutor session so that i can be better for project 2
 }
